@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(231, 231, 88, 0.4);
+    
+}
+.title {
+    display: block;
+    color: blue;
+    text-align: center;
+    width: 200px;
+    padding: 1px ;
+    margin: 10px;
+}
+.image {
+    width: 250px;
+    height: auto;
+    border: 2px black;
+}
+.container {
+    padding: 2px ;
+}
+button {
+    display: block;
+}

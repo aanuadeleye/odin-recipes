@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(231, 231, 88, 0.4);
+    
+}
+#header {
+    color: blue;
+    margin: 10px;
+    border: 2px;
+    padding: 2.5px;
+}
+.headings {
+    color: rgb(140, 203, 224);
+    margin:10px;
+}
+button{
+    display: block;
+    background-color: white;
+    border: 1px black;
+    margin-left: 5%;
+}
+img {
+    margin: 10px;
+}
+p{
+    display: block;
+    width: 500px;
+}
